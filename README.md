@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Peeyush Sharma  
 
-⚡ Turning **My 2 Decades of Experience of Data expertise** into **next-gen AI solutions**  
+⚡ Turning **My 2 Decades of Experience in Data expertise** into **next-gen AI solutions**  
 
 ## 🚀 About Me  
 - 🤖 AI & Data Science Practitioner exploring **Generative AI, LLMs, and MLOps**  
