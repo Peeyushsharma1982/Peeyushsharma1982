@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Peeyush Sharma  
 
-<!--
-**Peeyushsharma1982/Peeyushsharma1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Turning **18+ years of Data expertise** into **next-gen AI solutions**  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🤖 AI & Data Science Practitioner exploring **Generative AI, LLMs, and MLOps**  
+- 🗄️ Veteran in **SQL Server, Azure SQL, and Data Architecture**  
+- ☁️ Skilled in **Cloud Migration & Performance Optimization**  
+- 🌉 Passionate about bridging **traditional data systems** with **modern AI**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus  
+- Building hands-on projects with **LLMs & Generative AI**  
+- Exploring **AI + Data synergy** for real-world applications  
+- Learning and experimenting with **MLOps pipelines**  
+
+## 🛠️ Skills  
+- **AI / ML**: Generative AI, LLMs, Prompt Engineering, Applied ML  
+- **Data**: SQL Server, Azure SQL, Database Optimization, Partitioning, Archival & Purging  
+- **Cloud**: Azure Data Platform, Migration, Performance Tuning  
+
+## 🌱 Learning Journey  
+Transitioning from a **Database Operations Head** to an **AI-driven solutions architect**, combining decades of enterprise database experience with modern AI practices.  
+
+## 📫 Connect With Me 
+https://www.linkedin.com/in/peeyush-sharma-315b5015/
+
