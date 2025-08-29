@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Peeyush Sharma  
+# Hi, I’m Peeyush Sharma  
 
 ⚡ Turning **My 2 Decades of Experience in Data expertise** into **next-gen AI solutions**  
 
